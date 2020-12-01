@@ -338,7 +338,7 @@ body {
   .title--medium {
     font-size: calc(2rem + 2.5vw); }
   .title--large {
-    font-size: calc(10rem + 2vw); }
+    font-size: calc(8rem + 2vw); }
 
 .title__offset {
   display: block;
@@ -386,7 +386,6 @@ body {
 
 .detail-view__content p {
   width: 100%;
-  max-width: 35vw;
   font-size: 1.8rem;
   line-height: 1.9;
   opacity: .7; }
