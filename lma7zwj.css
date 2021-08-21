@@ -38,8 +38,8 @@ font-display:auto;font-style:normal;font-weight:400;
 }
 
 .details-content{
-    overflow-y: auto;
-    height: calc(100vh - 350px);
+    /* overflow-y: auto; */
+    /* height: calc(100vh - 350px); */
     padding: 30px 0;
 }
 .details-content:before, .details-content:after{
